@@ -9,7 +9,7 @@ This repository contains a Power BI dashboard project analyzing student spending
 - **Dynamic Dashboard**: Published on Power BI Cloud with scheduled refreshes.
 
 ## Dataset:
-- **Student Survey.xlsx**: Contains data on student purchases, segmented by store location and type of products.
+- [Download Student Survey.xlsx](Student%20Survey.xlsx): Contains data on student purchases, segmented by store location and type of products.
 
 ## Tools Used:
 - Power BI Desktop
