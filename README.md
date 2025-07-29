@@ -1,4 +1,4 @@
-# Power BI Student Survey Dashboard
+# Student Survey Power BI Dashboard
 
 This repository contains a Power BI dashboard project analyzing student spending patterns across different store types and locations in the U.S. 🏬
 
